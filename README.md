@@ -1,2 +1,2 @@
 # fcurve
-An attempt at building an interest rate curve using fsharp
+Experimenting with fsharp by building an interest rate curve.
